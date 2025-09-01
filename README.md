@@ -9,7 +9,7 @@ Bu proje, Python'ın Kivy Kütüphanesini kullanılarak geliştirilmiş, temel v
 * Sonuç hesaplama (=) fonksiyonu
 * Klavye desteği⌨️
 
-![Hesap Makinesi Ekran Görüntüsü](İmage/.png)
+![Hesap Makinesi Ekran Görüntüsü](İmage/Ekran görüntüsü 2025-09-01 164656.png)
 
 ### Kurulum ve Çalıştırma🛠️📥📦
 Bu projeyi çalıştırmak için iki seçeneğiniz bulunmaktadır:
