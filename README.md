@@ -33,3 +33,5 @@ Uygulamanın Python ve Kivy'ye ihtiyaç duymadan çalışabilen derlenmiş versi
 
 * Uygulamayı indirmek için **[Buraya Tıklayın](https://github.com/EagleSoft461/Calculator-Projects/releases/tag/v1.0.0)**.
 * İndirdiğiniz dosyayı çalıştırarak hesap makinesini kullanmaya başlayabilirsiniz.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FFDD00?style=flat-square)](https://buymeacoffee.com/Eaglesss)
